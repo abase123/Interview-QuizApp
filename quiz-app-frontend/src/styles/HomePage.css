@@ -1,0 +1,51 @@
+.homepage-container {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f4f7;
+    border-radius: 10px;
+}
+
+.homepage-header {
+    font-family: 'Arial', sans-serif;
+    font-size: 2.5rem;
+    color: #333;
+}
+
+.homepage-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.quiz-image {
+    width: 300px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.slider-label {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.slider {
+    margin: 10px;
+    width: 200px;
+}
+
+.start-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.start-button:hover {
+    background-color: #45a049;
+}
